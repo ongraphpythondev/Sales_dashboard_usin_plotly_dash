@@ -1,10 +1,19 @@
 ## Sales Data Dashbord 
-### create virtual environment and activate it.
+
+### Setup environment
 ```
 python -m venv venv 
+```
+### Activate the environment
+```
 venv/Scripts/activate
 ```
-### Run histograms.py file
+### Install requirements
 ```
-python histograms.py
+pip install -r requirments.txt
+```
+### Run the main.py file
+```
+python main.py
+
 ```
