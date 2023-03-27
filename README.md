@@ -1,8 +1,10 @@
-## Sales Data Dashbord 
-```
-creating charts using plotly dash
-```
+# Sales Data Dashbord 
+
+## creating charts using plotly dash
+
+
 ### Setup environment
+
 ```
 python -m venv venv 
 ```
@@ -20,6 +22,6 @@ python main.py
 
 ```
 
-### result
+### Output Image 
 
 ![Screenshot](output.png)
