@@ -1,5 +1,7 @@
 ## Sales Data Dashbord 
-
+```
+creating charts using plotly dash
+```
 ### Setup environment
 ```
 python -m venv venv 
@@ -17,3 +19,7 @@ pip install -r requirments.txt
 python main.py
 
 ```
+
+### result
+
+![Screenshot](output.png)
